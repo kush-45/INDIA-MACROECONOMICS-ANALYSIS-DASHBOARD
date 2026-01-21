@@ -1,3 +1,5 @@
+Macroeconomic Analysis of India (1999-2023)
+
 🎯 Project Overview
 This Tableau project provides a comprehensive analysis of India's macroeconomic indicators over the past two decades. Through dynamic visualizations and data-driven insights, the dashboard highlights key trends and patterns shaping India's economy.
 
